@@ -37,7 +37,7 @@
 ## Heroky Deploy :
 _Press the button Deploy to heroku and give the values for the config vars. 👇_
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?tempate=https://github.com/infotechIT/FileStoreBot)
 
 
 ## VPS Deploy : 
